@@ -17,6 +17,6 @@ red_sparrow = parents.Movie("Red Sparrow","Bla bla bla","https://assets.voxcinem
 
 death_wish = parents.Movie("Death Wish","Bla bla bla","https://www.dvdsreleasedates.com/posters/800/D/Death-Wish-2017-movie-poster.jpg","https://www.youtube.com/watch?v=HzILu6yyA20")
 
-movies = [toystory, inferno, school_of_rock, hungergames, angels_and_demons, titanic, red_sparrow, death_wish]
+movies_list = [toystory, inferno, school_of_rock, hungergames, angels_and_demons, titanic, red_sparrow, death_wish]
 
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies_list)
