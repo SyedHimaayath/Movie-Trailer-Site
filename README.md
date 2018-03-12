@@ -15,3 +15,7 @@ use terminal
 <h2>Externally accesses</h2>
 <li>Poster Images</li>
 <li>Youtube trailers from URLs</li>
+
+## Acknowledgment
+
+<h3>Used file fresh_tomatoes.py downloaded from Udacity</h3>
