@@ -3,11 +3,11 @@
 
 ## Install
 
-```
-	npm install movie-trailer-site
-```
+CLone or download from [here](https://github.com/SyedHimaayath/movie-trailer-site.git)
 
 ## Run
+
+use terminal 
 ```
 	python movie_list.py
 ```
