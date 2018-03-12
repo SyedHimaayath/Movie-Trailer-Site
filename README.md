@@ -1,10 +1,13 @@
 # movie-trailer-site
 <h3>Server-side code to store a list of movies</h3>
-###Install
+
+### Install
+
 ```
-$ npm install movie-trailer-site
+	npm install movie-trailer-site
 ```
-###Run
+
+### Run
 ```
 	python movie_list.py
 ```
