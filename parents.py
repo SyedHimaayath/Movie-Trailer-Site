@@ -2,6 +2,8 @@ class Movie():
     """init function takes in all the neccessary arguments starting with self,
 representing the particular movie selected"""
     def __init__(self, title, storyline, movie_poster, trailer_youtube_url):
+        """self is to repesent one particular movie with which the instances
+are passed"""
         self.title = title
         self.storyline = storyline
         self.poster_image_url = movie_poster
