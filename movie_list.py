@@ -7,7 +7,7 @@ toystory = parents.Movie("Toy Story",
                          "https://www.youtube.com/watch?v=SgoiKLFBA3Q")
 
 inferno = parents.Movie("Inferno",
-                        "After waking up with amnesia in a hospital, Robert Langdon teams up with Sienna Brooks, one of his doctors, to protect the world from the evil plan of a mad scientist.',
+                        "After waking up with amnesia in a hospital, Robert Langdon teams up with Sienna Brooks, one of his doctors, to protect the world from the evil plan of a mad scientist.",
                         "http://www.sonypictures.com/movies/inferno/assets/images/onesheet.jpg",
                         "https://www.youtube.com/watch?v=RH2BD49sEZI")
 
