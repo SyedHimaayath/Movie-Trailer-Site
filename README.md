@@ -12,6 +12,12 @@ use terminal
 	python movie_list.py
 ```
 
+
+## Softwares and dependencies
+
+<li>Python 2.7</li>
+<li>fresh_tomatoes.py (responsible for the html doc rendering)</li>
+
 <h2>Externally accesses</h2>
 <li>Poster Images</li>
 <li>Youtube trailers from URLs</li>
