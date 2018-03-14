@@ -9,7 +9,7 @@ toystory = parents.Movie(
     "get reduced.",
     "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-m8zzyx"
     "_5670999f.jpeg?region=0%2C0%2C300%2C450",
-    "https://www.youtube.com/watch?v=SgoiKLFBA3Q")
+    "https://youtu.be/KYz2wyBy3kc")
 
 # making an instance of Movie class
 inferno = parents.Movie(
